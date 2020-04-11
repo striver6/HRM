@@ -1,5 +1,5 @@
 # HRM
-HRM
+High resolution esophageal manometry
 # Architecture
 ![image](https://github.com/striver6/HRM/blob/master/hrm%E7%BD%91%E7%BB%9C%E7%BB%93%E6%9E%84%E5%9B%BE%20.png)
 
