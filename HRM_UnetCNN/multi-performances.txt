@@ -1,0 +1,19 @@
+inceptionresnetv2_normal:
+Training:  0.2221 0.1104 0.9161 0.0451
+Validation: 0.2430 0.0524 0.9148 0.0167
+
+inceptionv3_normal:  
+Training:  0.3620 0.0998 0.8592 0.0430
+Validation: 0.3558 0.3040 0.8778 0.0731
+
+resnet50_normal:  
+Training:  0.2950 0.0907 0.8865 0.0357
+Validation: 0.2749 0.1399 0.9007 0.0455
+
+smallervgg_normal:  
+Training:  0.2596 0.0718 0.8970 0.0308
+Validation: 0.2357 0.0335 0.9123 0.0158
+
+xception_normal:  *****
+Training:  0.2171 0.0954 0.9175 0.0388
+Validation: 0.2503 0.0978 0.9142 0.0262
